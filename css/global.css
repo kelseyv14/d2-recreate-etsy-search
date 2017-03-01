@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 110px;
+    width: 130px;
+}
+
+.search {
+    padding-top: 30px;
+}
+
+.navbar {
+    border: black;
+}
+
+.form-control > .btn btn-default {
+    border-width: 1px;
+    border-style: solid;
+    background-color:cadetblue;
+    color: white;
+    padding: 5px;
+}
+
+.inline {
+    display: inline;
+    padding-top: 20px;
+    
+    
+}
+
+/*I seriously do not know why this styling is not working, but I have multiple issues going on with my columns and I can't pin point what is going wrong. I will comment what I think should work and try to fix it tomorrow if I can get some help*/
+
+/*-target the top nav bar and create a bottom border
+-style the button and move it closer to the search box
+-make the search box longer
+-style the links on the top right nav 
+-create a break between the shopping cart and sign in 
+-style the second nav bar by making all appear on one line
+-make cards for the boxes on the left 
+-style the text
+-make the set cost inputs sit next to each other 
+-create small colored boxes 
+-allign the "sort by" text to the right
+-create cards for the items
+-get them to line up in their container*/
+
+
+
+
+
+
+
